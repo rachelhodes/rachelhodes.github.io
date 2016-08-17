@@ -87,7 +87,7 @@ var rules = {
     "How do you feel about ~y in reality?",
   ],
   "~*x Gertrude Stein ~*y" : [
-     "The time in the composition",
+     "The time in the composition is the time of the composition",
   ],
   "~*x dream ~*y": [
     "What does this dream suggest to you?",
